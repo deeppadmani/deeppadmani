@@ -87,18 +87,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=deeppadmani&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/deep-padmani-6a53b1132/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="deeppadmani#7846" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+  <img height="200" src="https://www.einfochips.com/blog/wp-content/uploads/2018/10/iot_1.gif"  />
 </div>
 
 ###
