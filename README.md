@@ -8,11 +8,8 @@
   <a href="https://www.linkedin.com/in/deep-padmani-6a53b1132/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="deep.padmani98.2021@gmail.com" target="_blank">
+  <a href="mailto:deep.padmani98.2021@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="deeppadmani#7846" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 
@@ -79,10 +76,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
