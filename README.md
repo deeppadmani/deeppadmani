@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/embed/igRW3jH2LcCVzMqi5F"  />
+  <img height="150" src="https://giphy.com/stickers/rbeiindia-transparent-igRW3jH2LcCVzMqi5F"  />
 </div>
 
 ###
