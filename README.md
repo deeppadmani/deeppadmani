@@ -76,7 +76,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="aws"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
   <img width="12" />
