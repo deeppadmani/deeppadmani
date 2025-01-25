@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi there 👋 I'm Deep Padmani</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I am a highly qualified and accomplished professional with a track record of success in the product-based software and technology sector. At this time, I am looking to further my expertise by pursuing a Master of Science in Computer Engineering from The University of Texas at Dallas.<br><br>I'm enthusiastic to use my knowledge of cutting-edge technologies, such as machine learning, artificial intelligence, embedded software development, and the Internet of Things, to lead effective research and development activities in the software sector. I am sure that I can significantly contribute to the development and success of any firm by utilizing my technical expertise and capacity to work well with cross-functional teams.</p>
+<p align="left">I am a highly qualified and accomplished professional with a track record of success in the product-based software and technology sector. At this time,  I have earned a Master of Science in Computer Engineering from The University of Texas at Dallas.<br><br>I'm enthusiastic to use my knowledge of cutting-edge technologies, such as machine learning, artificial intelligence, embedded software development, and the Internet of Things, to lead effective research and development activities in the software sector. I am sure that I can significantly contribute to the development and success of any firm by utilizing my technical expertise and capacity to work well with cross-functional teams.</p>
 
 ###
 
@@ -75,6 +75,8 @@
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="aws"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
   <img width="12" />
