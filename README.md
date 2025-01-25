@@ -60,7 +60,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="aws logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/subversion/809CC9" height="40" alt="subversion logo"  />
   <img width="12" />
